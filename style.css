@@ -94,11 +94,10 @@ hr{
   letter-spacing: .125rem;
 }
 
-@media only screen and (max-width:37.5rem){
+@media only screen and (max-width:45rem){
   body{  
-  margin: ;
-  max-height: ;
-  background-position: right 45vw bottom 60vh, left 40vw top 55vh;
+  margin: 30rem auto;
+  background-position: right 45vw bottom 40vh, left 40vw top 40vh;
 
 }
 .container{
