@@ -23,7 +23,7 @@ body{
 
   background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');  
   background-repeat: no-repeat, no-repeat;
-  background-position: right 51vw bottom 31vh, left 46vw top 48vh;
+  background-position: right 51vw bottom 31vh, left 46vw top 46vh;
  
 }
 
@@ -136,3 +136,4 @@ hr{
   padding-bottom: 2.5rem;    
 }
 }
+
