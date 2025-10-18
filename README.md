@@ -49,7 +49,6 @@ Structured HTML with CSS and responsive design with media queries
 
 --Proper use of semantic tags and typography
 --Creating a consistent, clean layout with reusable variables
---Using @font-face and managing custom fonts
 --Handling responsive design for smaller screens
 
 
