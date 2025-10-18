@@ -21,7 +21,7 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### The challenge
 
-Build a responsive recipe page using semantic HTML and clean CSS that matches a given design (likely from Frontend Mentor).
+Build a responsive profile card component using semantic HTML and clean CSS that matches a given design (likely from Frontend Mentor).
 
 ### Screenshot
 
@@ -31,14 +31,12 @@ Build a responsive recipe page using semantic HTML and clean CSS that matches a 
 
 ### Links
 
-- Solution URL: https://github.com/sazzadkhan99/recipe-page
-- Live Site URL: https://sazzadkhan99.github.io/recipe-page
+- Solution URL: https://github.com/sazzadkhan99/profile-card-component
+- Live Site URL: https://sazzadkhan99.github.io/profile-card-component
 
 ## My process
 
-Structured HTML with semantic tags (main, ul, ol, table)
-Used CSS variables and custom fonts
-Focused on layout, spacing, and responsive design with media queries
+Structured HTML with CSS and responsive design with media queries
 
 ### Built with
 
