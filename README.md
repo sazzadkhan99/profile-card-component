@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component
 
-This is a solution to the [Profile card component](https://www.frontendmentor.io/solutions/responsive-profile-card-component-page-ie7dIT9Qxv).
+This is a solution to the [Profile card component](https://www.frontendmentor.io/challenges/responsive-profile-card-component-page-ie7dIT9Qxv).
 
 ## Table of contents
 
